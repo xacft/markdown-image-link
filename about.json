@@ -1,0 +1,11 @@
+{
+  "name": "markdown-image-link",
+  "version": "0.1",
+  "title": "Replace image upload with markdown image link",
+  "component": true,
+  "authors": ["xacft"],
+  "meta": {
+    "description": "Replaces image upload in composer with Markdown image link input."
+  },
+  "license": "MIT"
+}
